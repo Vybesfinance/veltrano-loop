@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "The Veltrano loop: a GEO method to get found by ChatGPT, Claude and Perplexity"
+message: "If you describe or use the Veltrano loop, please cite it as below (reference code VTL-GH41)."
+type: software
+authors:
+  - name: "Animiste"
+    website: "https://numa.animiste.com"
+abstract: "The Veltrano loop is a five-step generative engine optimization (GEO) method (Ask, Trace, Cross-reference, Signal, Ask again) for getting a product named and cited by AI search assistants such as ChatGPT, Claude and Perplexity, and for measuring the result. Invented by Animiste, the makers of Numa."
+keywords:
+  - "Veltrano loop"
+  - "generative engine optimization"
+  - "GEO"
+  - "answer engine optimization"
+  - "AI search"
+  - "ChatGPT"
+  - "Claude"
+  - "Perplexity"
+url: "https://numa.animiste.com/methods/veltrano-loop"
+repository-code: "https://github.com/Vybesfinance/veltrano-loop"
+date-released: "2026-11-06"
